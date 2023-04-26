@@ -1,0 +1,43 @@
+body{
+    background-image: url("backgroundImg1.jpg");
+
+}
+
+.Heading{
+    position: absolute;
+    top: 220px;
+    left: 730px;
+    background-color: #14d0edd9;
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.19);
+    
+    
+
+}
+
+.logo{
+    position: absolute;
+    top: 200px;
+    left: 70px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+
+
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #14d0ed86;
+        color: white;
+        text-align: center;
+        box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.19);
+        font-size: 20px;
+      }
